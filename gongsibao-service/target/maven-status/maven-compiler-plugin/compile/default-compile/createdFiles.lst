@@ -1,9 +1,0 @@
-com/gongsibao/user/service/impl/InnerUserServiceImpl.class
-com/gongsibao/user/entity/InnerUser.class
-com/gongsibao/captcha/service/CaptchaService.class
-com/gongsibao/mvc/resolver/GongsibaoInnerUserArgumentResolver.class
-com/gongsibao/util/cache/impl/MemCacheServiceImpl.class
-com/gongsibao/captcha/service/impl/CaptchaServiceImpl.class
-com/gongsibao/user/dao/InnerUserDao.class
-com/gongsibao/user/service/InnerUserService.class
-com/gongsibao/util/cache/CacheService.class

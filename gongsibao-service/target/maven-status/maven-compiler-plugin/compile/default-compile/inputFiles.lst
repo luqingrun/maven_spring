@@ -1,9 +1,0 @@
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/user/entity/InnerUser.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/captcha/service/impl/CaptchaServiceImpl.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/util/cache/CacheService.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/user/service/impl/InnerUserServiceImpl.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/captcha/service/CaptchaService.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/user/dao/InnerUserDao.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/mvc/resolver/GongsibaoInnerUserArgumentResolver.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/util/cache/impl/MemCacheServiceImpl.java
-/Users/luqingrun/IdeaProjects/gongsibao/gongsibao-service/src/main/java/com/gongsibao/user/service/InnerUserService.java
